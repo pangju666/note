@@ -1,0 +1,1 @@
+[https://**mirrors.cloud.tencent.com**/gradle/](https://mirrors.cloud.tencent.com/gradle/)
